@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\kdusz\source\repos\Kości_projekt\Kości_projekt\Game.cpp(122,6): warning C4101: "points": lokalna zmienna, do której nie istnieje odwołanie
+  Kości_projekt.vcxproj -> C:\Users\kdusz\source\repos\Kości_projekt\Debug\Kości_projekt.exe
